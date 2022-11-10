@@ -10,6 +10,8 @@ namespace BMW
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ЁЛКИ ПАЛКИ!");
+            Console.ReadKey();
         }
     }
 }
